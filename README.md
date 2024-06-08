@@ -30,7 +30,7 @@ src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-
 
 - 💬 Ask me about **git,github,Web Development**
 
-- 📫 How to reach me **chysubhash1234@gmail.com**
+- 📫 How to reach me **Shivainikriggg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
